@@ -1,0 +1,369 @@
+#+TITLE:    FLORA BRASILIENSIS
+#+SUBTITLE: ENUMERATIO PLANTARUM\\
+#+SUBTITLE: IN\\
+#+SUBTITLE: BRASILIA\\
+#+SUBTITLE: HACTENUS DETECTARUM\\
+#+SUBTITLE: QUAS SUIS ALIORUMQUE BOTANICORUM STUDIIS DESCRIPTAS ET METHODO NATURALI\\
+#+SUBTITLE: DIGESTAS PARTIM ICONE ILLUSTRATAS
+#+AUTHOR:   MARTII
+#+DATE:     1840–1906
+#+LANGUAGE: la
+#+OPTIONS: H:4 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/florabrasiliensis.css" />
+
+* VOLUMEN I.
+** PARS I.
+*** VITAE ITINERAQUE COLLECTORUM BOTANICORUM.
+#+BEGIN_CENTER
+NOTAE COLLABORATORUM BIOGRAPHICAE,\\
+FLORAE BRASILIENSIS RATIO EDENDI CHRONOLOGICA,\\
+SYSTEMA, INDEX FAMILIARUM.\\
+=exposuit=\\
+=IGNATIUS URBAN, phil. Dr. Professor,=\\
+=regi borussiae a consiliis regiminis intimis.=
+#+END_CENTER
+**** ANDERSSON, NILS JOHAN
+(1821–1880.)
+
+Natus d. 20. m. Februarii 1821 in Gärdserum (Småland,
+Suecia), in universitate Upsaliensi scientiae rerum naturalium,
+praesertim botanicae se tradidit, 1845 gradum Dr. phil.
+capessivit et 1846 ibidem munus botanices docentis suscepit.
+1851–53 expeditioni Suecicae in navi Eugenie dicta circa
+orbem terrarum missae botanicus adfuit. In patriam redux
+1852 lector historiae naturalis in schola Stockholmiensi (Nya
+Elementarskolan), 1855 botanices demonstrator in universitate
+Lund, 1856 director sectionis botanicae in museo historiae
+naturalis Stockholmiensi atque professor Bergianus nominatus
+est. 1879 munera deposuit et d. 27. m. Martii 1880 in Stockholm
+morti succubuit. — Operibus pluribus egregiis scientiam
+botanicam locupletavit: De plantis atque vegetatione Lapponiae 1844–46,
+Cyperaceae et Gramineae Scandinaviae 1849, 1852,
+de vegetatione insularum Galápagos 1854, 1857, Enumeratio
+plantarum in insulis Galapagensibus hucusque observatarum
+1861, Monographia Andropogonearum (fragm.) 1856, et
+praesertim studia ad Salicaceas pertinentia, e. gr. Salices
+Lapponiae 1845, Salices boreali-americanae 1858, Monographia
+Salicum, pars I 1867, Salicineae in DC. Prodr. 1868.
+
+Lit. Notae a cl. =G. O. A. Malme= benevole mecum communicatae.
+— =O. Uhlworm= Botan. Centralbl. I (1880) p. 192. —
+=V. B. Wittrock=: Iconotheca botan. (1903) p. 29 tab. 11 (effigies). —
+Pritz. Thes. II. ed. p. 6; Jacks. Guide p. 63, 123, 143, 331,
+332, 336, 337, 338, 358, 468; Cat. Sc. Pap. I p. 65–66, VI
+p. 565, VII p. 34.
+
+#+BEGIN_CENTER
+~Itinera.~
+#+END_CENTER
+
+1851–53 — Civit. ~Rio de Janeiro~ (1851), Montevideo,
+Buenos Aires, fretum Magalhaens, insulae Galápagos,
+Sandwich, Australia (e. gr. Sydney), Caput Bonae Spei.
+
+Plantae collectae in sectione botanica musei historiae
+naturalis in Stockholm conservantur.
+
+**** ARRUDA DA CAMARA, MANOEL.
+(1752–?)
+
+Natus a. 1752 in Pernambuco (Brasilia), in universitate
+Montpellier studio medicinae et rerum naturalium duce ill.
+prof. =A. Gouan= se tradidit, gradum Dr. med. capessivit et
+in patriam redux non solum de plantis utilibus (praesertim
+textoriis), sed etiam de flora Pernambucensi bene meritus est.
+Scripsit: Memoria sobre a cultura dos Algodoeiros 1799,
+Memoria sobre o algudao de Pernambuco 1810, Dissertação
+sobre as plantas do Brazil, que podem dar linhos 1810, Discurso
+sobre a utilidade da instituição de Jardims nas principaes
+provincias do Brazil 1810, Centuriae plantarum pernambucensium,
+quas =Martinus Ribeiro= delineaverat (ineditae).
+
+Lit. =M. Colmeiro=: Botán. peníns. Hispano-lusitana (1858)
+p. 208. — =H. Kosters=: Travels in Brazil (1816) p. 475–501
+et edit. gall. vol. II. (1846) p. 442–510, ubi Dissert. sobre as
+plantas do Brazil et Discurso sobre Jardims p. p. translata sunt. —
+=Martius= in Flora Ratisb. vol. XX. pars II (1837) Beibl. p. 13–14
+et in Abh. bayr. Akad. Wiss. vol. VII (1853) p. 194–195. —
+=J. M. Pereira da Silva=: Os varões illustres do Brazil vol. II
+(1858) p. 331 et 362. — De plantis cli. Arruda pernambucensibus
+disseruit =J. Britten= in Journ. of Bot. XXXIV (1896) p. 242 ad 250.
+— Pritz. Thes. II. ed. p. 9.
+
+**** BALL, JOHN.
+(1818–1889.)
+
+Natus d. 20. m. Augusti 1818 in Dublin (Hibernia), in
+collegio Christiano universitatis Cambridge geologiae et praesertim
+botanicae sub auspiciis ill. =J. St. Henslow= studuit, postea
+jurisprudentiae se tradidit, sed munera non exercuit. 1846–52
+officia delegati pauperibus praestitit. 1855 secretarius
+coloniarum secundus nominatus de exploratione botanica atque
+institutis botanicis imperii Anglici in regionibus exoticis bene
+meritus est. Postquam 1858 breve per tempus homo senatorius
+fuit, e vita publica discessit in studiis botanicis, geographicis,
+geologicis vitam totam consumens. Jam in juventute
+montes Europae mediae et australis praesertim Alpes
+peragravit, de quibus opus egregium Alpine Guide dictum
+1860–65 conscripsit; 1871 Sir =Joseph Hooker= et cl. =G. Maw=
+in itinere Maroccano comitatus est; 1882 Americam australem
+visitavit. Quae itinera non solum florae illarum regionum
+cognoscendae, sed etiam inquisitionibus phytogeographicis
+utilitatem magnam attulerunt. D. 21. m. Octobris 1889 Londini
+mortuus est. — Inter opera et opuscula nominanda sunt:
+De generibus Oenanthe, Odontites, Thalictrum, Leontodon,
+On the structure of Glaciers 1857 (–1871), On the formation
+of alpine valleys and alpine lakes 1863, A guide to the
+eastern Alps 1868, Spicilegium florae Maroccanae 1877, On
+the origin of the flora of the European Alps 1879, Tour
+in Marocco and Great Atlas (cum =J. D. Hooker=) 1879,
+Contributions to the flora of North Patagonia 1884, Contributions
+to the flora of the Peruvian Andes 1885.
+
+Lit. =John Ball=: Notes of a naturalist in South America,
+London 1887. — =I. Bayley Balfour=: John Ball in Ann.
+of Bot. III (1889–90) p. 450–451, cum indice operum. —
+=J. Britten= et =G. S. Boulger=: Biograph. Index (1893) p. 10. —
+Sir =Joseph D. Hooker=: Mr. John Ball, F. R. S., in Proc. Royal
+Geogr. Society vol. XII (1890) p. 99–106 et in Proc. of the
+Royal Society London vol. XLVII (1890) p. V–IX. —
+=W. T. Thiselton Dyer=: John Ball, F. R. S., in Britten Journ. of
+Botany vol. XXVII (1889) p. 365–370. — =V. B. Wittrock=:
+Iconotheca botan. (1903) p. 89. — Leopoldina Fasc. XXVI. (1890)
+p. 170. — Pritz. Thes. II ed. p. 13; Jacks. Guide p. 229, 351;
+Cat. Sc. Pap. I p. 171, VII p. 78, IX p. 109.
+
+#+BEGIN_CENTER
+~Itinera americana.~
+#+END_CENTER
+
+1882 — ~Barbados~ (30. III), ~Haiti~ (Jacmel, 2. IV),
+~Jamaica~ (Kingston 3. IV, Gordontown), ~Panama~ (Colon 6. IV.),
+~Nova Granata~ (Buenaventura 8. IV), ~Ecuador~
+(Tumaco 9. IV, Guayaquil 11. IV), ~Peruvia~ (Payta 12. IV,
+Callao 15. IV, Lima, unde 20. IV ad San Juan de Matucana,
+Puente Infernillo, Chicla, retro ad Lima, Caudivilla,
+Callao 29. IV), ~Chile~ (Arica 2. V, Pisagua, Huanillos, Caldera,
+Coquimbo, Valparaiso 9. V, Santiago, unde 12. V ad Serro
+San Cristobal, Cauquenes, Apoquinto, Santa Rosa de los
+Andes, Resguardo in valli Aconcagua, retro ad Valparaiso
+26–29. V, Lota, Eden, Puerto bueno, Sandy Point, Punta
+Arenas 10. VI), ~Uruguay~ (Montevideo 21–24. VI, in Rio
+Uruguay ad Paisandu), ~Argentina~ (Buenos Aires 28–30. VI),
+~Brasilia~ civit. ~São Paulo~: Santos, Sao Paulo (6. VII), via
+ferrea in civit. ~Rio de Janeiro~ ad capitalem, Botafogo,
+Petropolis (9–20. VII), Itamariti, Tijuca (22–24. VII).
+
+Plantae collectae in herbario Kewensi, dupla in museo
+Berolinensi (ex herb. =Hiëronymus=).
+
+**** BANKS, SIR JOSEPH.
+(1743–1820.)
+
+Natus d. 13. m. Februarii 1743 Londini (Anglia), scholis
+Harrow et in Eton absolutis 1760–63 in universitate Oxford
+studio rerum naturalium se tradidit et gradum M. A. capessivit.
+Iter primum 1766 in insulam Newfoundland ad plantas colligendas
+fecit. 1768–71 cum =Dr. Solander= expeditionem
+Cookianam circa orbem terrarum in navi Endeavour comitatus est.
+In itinere tertio 1772 cum cl. =Solander= insulam Island visitavit.
+1766 sodalis societatis regiae Londinensis, 1778 ejus praeses,
+1781 nobilitatus, 1802 sodalis instituti gallici, d. 19. m. Junii
+1820 in Spring Grove (Isleworth, Middlesex) mortuus est. —
+Scripsit: A short account of the cause of the disease in corn,
+called by farmers the blight, the mildew and the rust 1805,
+et notas varias in Trans. Hortic. Soc., Trans. Linn. Soc. etc.
+Edidit: =E. Kaempfer=, Icones selectae plantarum 1791,
+=W. Roxburgh=, Plants of the coast of Coromandel 3 vol.
+1795–1819. Magni nominis factus est collectionibus plantarum
+exsiccatarum ditissimis sicut bibliotheca botanica illo
+tempore amplissima, quas omnibus botanicis liberaliter promptas
+expositasque praebuit et museo Britannico legavit.
+
+Lit. =J. Britten= et =G. S. Boulger= in Journ. of Bot.
+vol. XXVI (1888) p. 86, seors. impr. Biogr. Ind. (1893) p. 10. —
+=Cuvier=: Eloge historique, Paris 1821, 30 p. (n. v.). — =F. Didot=:
+Nouv. Biogr. universelle vol. IV (1853) p. 361–370. — =Andrew Duncan=:
+A short account of the life of the right honourable Sir
+Joseph Banks, Edinburgh 1821, 24 p. (n. v.) — =B. D. Jackson=:
+Sir Joseph Banks in Dict. Nat. Biogr. vol. III (1885) p. 129 ad
+133 (cum literatura). — =Lasègue= Mus. Deless. (1845) p. 364
+ad 365. — =Martius= in Flora Ratisb. vol. XX pars II (1837)
+Beibl. p. 24. — Pritz. Thes. II ed. p. 13; Jacks. Guide p. XXXV11,
+2, 223, 381; Cat. Sc. Pap. I p. 176.
+
+#+BEGIN_CENTER
+~Iter Cookianum.~
+#+END_CENTER
+
+1768–71 — E Plymouth 25. VIII. 68 abierunt, Brasilia
+~Rio de Janeiro~ (13. XI. 68 advenerunt et per 3 hebdomades
+ibi commorati sunt), Cap Horn, Tahiti, New Zealand,
+Australia, Nova Guinea, Batavia, Caput Bonae Spei, St. Helena,
+Anglia (12. VI. 71).
+
+Plantae in museo Britannico Londini.
+
+**** BARBOSA RODRIGUES, JOÃO.
+(*1842.)
+
+Natus d. 22. m. Junii 1842, patre ejusdem nominis
+mercatore in civit. Minas Geraes (Brasilia), matre
+=Maria Carlota da Silva Santos=. Studiis primariis 1858 finitis
+medicinae se tradere voluit, sed morte patris coactus munus
+secretarii instituti commercialis, deinde secretarii et ab a. 1866
+professoris picturae linearis in collegio imperiali =Petri= secundi
+suscepit. Sub auspiciis ill. prof. =F. Freire Allemão= in schola
+centrali (postea polytechnica dicta) in botanicen introductus
+excursiones in civit. Rio de Janeiro et Minas 1868 incepit, jussu
+regiminis imperialis vallem Amazonicam 1871 exploravit et
+annis sequentibus plurimas alias civitates ratione botanica et
+ethnologica praesertim in viis vix v. non usitatis indagavit.
+1876 in vitam privatam discessit et fabricae chemicae in Rodeio
+ad viam ferream in civit. Rio de Janeiro usque 1883 praefuit.
+1883–89 director musei botanici Amazonici in urbe Manáos
+ab eo ipso conditi, ab a. 1889 director horti botanici in Lagoa
+de Rodrigo de Freitas prope Rio de Janeiro fuit. — Opera
+botanica praesertim ad Orchidaceas et Palmas et Hortum
+Fluminensem pertinent: Iconographie des Orchidées du
+Brésil 1869–1882 msc. (species novae iconesque in Martii
+Flora Brasil. vol. III parte IV–VI a cl. =A. Cogniaux= editae),
+Enumeratio palmarum novarum quas valle fluminis Amazonum
+inventas descripsit et iconibus illustravit, Sebastianopolis 1875,
+Genera et species Orchidearum novarum, ibidem vol. I (1877),
+vol. II (1881), Protesto-appendice ao Enumeratio palmarum
+novarum, Rio de Janeiro 1879, Les palmiers, observations
+sur la monographie de cette famille dans la Flora brasiliensis,
+Rio de Janeiro 1882, Structure des Orchidées, Rio de Janeiro
+1883, Vellosia, Contribuições do Museu botanico do Amazonas
+vol. I (botanica) 1885–88, II ed. 1891, Plantas novas cultivadas
+no Jardim botanico do Rio de Janeiro, fasc. I–VI
+(1891–1898), Hortus Fluminensis ou breve noticia sobre as
+plantas cultivadas no Jardim Botanico do Rio de Janeiro
+1894, Palmae Mattogrossenses novae vel minus cognitae,
+ibidem 1898, Plantae Mattogrossenses ou Relação de plantas
+novas, ibidem 1898, Palmae novae Paraguayenses, ibidem 1899,
+Palmae Hasslerianae novae, ibidem 1900, As Heveas ou
+Seringueiras, ibidem 1900, Contributions du Jardin botanique
+de Rio de Janeiro, ibidem 1901, Myrtacées du Paraguay
+recueillies par Mr. le Dr. Emile Hassler, Bruxelles 1903,
+Sertum Palmarum Brasiliensium ou Relation des Palmiers
+nouveaux du Brésil, 2 vol. Fol. max., ibidem 1903, Les
+Noces des Palmiers, ibidem 1903, L’Uiraêry ou Curare,
+ibidem 1903 et alia opuscula minora. Praeterea dissertationes
+vel notae de Brasiliae rebus archaeologicis, palaeontologicis, de
+linguis moribusque aboriginum etc.
+
+Lit. Notae biographicae a cl. =Barbosa Rodrigues= acceptae. —
+=Alfred Cogniaux=: Notes bibliographiques sur les ouvrages de
+botanique de M. Barbosa Rodrigues iu Bull. Herb. Boissier vol. I
+(1893) p. 425–430. — =A. J. Ferreira da Silva=: Noticia da
+vida e trabalhos do naturalista brasileiro J. Barbosa Rodrigues,
+Porto 1885, 15 p. 8º, cum effigie et indice operum (biblioth.
+Glaziou). — =V. B. Wittrock=: Iconotheca botan. (1903) p. 181
+tab. 32 (effigies). — Relação dos trabalhos publicados até 1901
+por J. Barbosa Rodrigues. Rio de Janeiro 1901, 6 p. 8º (index
+operum). — Jacks. Guide p. 120, 374; Garraux Bibliogr. brésil.
+p. 22; Cat. Sc. Pap. IX p. 121.
+
+#+BEGIN_CENTER
+~Itinera.~
+#+END_CENTER
+
+1868 — Civit. ~Rio de Janeiro~ usque ~Minas Geraes~:
+Montes prope Petropolin, Serra do Mar, Serra do Tinguá,
+viciniae Barra Mansa, Resende, ripae Rio Parahyba, Itatiaia.
+
+1869–70 — Civit. ~Ceará, Parahyba do Norte, Pernambuco, Bahia, Espirito Santo.~
+
+1871 — Iter Amazonicum: Pará, Rio Capim, Rio Tocantins,
+Rio Tapayós, Rio Xingu, Rio Trombetas, Rio Jamundá, Serra
+Aruchy, Serra Ereré, Serra Parentins, Serra Curumu.
+
+1873–74 — Iter Amazonicum : Rio Uatumá, Rio Jatapu,
+Rio Urubú (partim cum =J. W. H. Trail=).
+
+1876 — Civit. ~Minas Geraes~: Serra do Picú, Serra
+das Aguas Virtuosas, Serra da Tromba, Serra do Aguapé,
+Serra do Lenheiro, Serra de S. João d’El Rey, Serra de
+S. José d’El Rey, Serra de Caldas, Serra da Pedra Branca,
+sylvae et campos secus Rio Parahybuna, Rio Japucaby, Rio
+Grande (partim associatus cum =A. Regnell= et =S. Henschen=).
+
+1883 — Iter Amazonicum: Rio Juruá.
+
+1884–85 — Iter Amazonicum: Rio Yauapery usque ad
+influentem Mahuá, (ad Indianos Crichanás dictos), Rio Negro,
+Rio Purus.
+
+1888 — Iter Amazonicum: Marañon usque ad fines Peruvianos,
+Rio Ucayale.
+
+1889 — Iter Amazonicum: Rio Javary et Rio Solimōes.
+
+1897 — Civit. ~Santa Catharina, Rio Grande do Sul, Uruguay, Paraguay, Matto Grosso:~
+Rio Paraguay, Rio
+S. Lourenço, Rio Coxipó, Rio Aricá, Rio das Areias de
+S. Miguel, Rio Cabral, Rio Sumidouro, Rio S. Romão, Rio
+da Casca, Rio do Peixe, Serros calcareos do Ladario, Corumbá,
+Melgaço, campos geraës de Cuyabá, Serra de S. Jeronymo,
+da Bocayna, do Manoel Antonio, Quebra Cabeça, praesertim
+Serra da Chapada prope Capão Secco, Morrinhos etc.
+
+Plantas exsiccatas cl. =Barbosa Rodrigues= ex itineribus
+plurimis reportasse non videtur, sed specimina rariora delineare
+vel pingere solitus est.
+
+**** BEYRICH, HEINRICH KARL.
+(1796–1834).
+
+Natus d. 22. m. Martii 1796 in Wernigerode (Borussia,
+Germania), in schola latina urbis patriae bene praeparatus
+horticulturam in horto botanico Gottingensi didicit et
+praelectiones botanicas in universitate audivit. Postquam munere
+hortulani in Tiibingen, in bortis caesareis Vindobonensibus,
+in Bruck ad flum. Leitha functus est, 1819 itinera botanica
+per Alpes atque Italiam superiorem fecit et 1821 hortulanus
+ad hortum botanicum Berolinensem venit. Navi a societate
+commercii maritimi Berolinensi ad relationes mercaturae incolis
+annectendas in Brasiliam missa in Rio de Janeiro 1822 advenit
+et quanquam morbis gravibus plures per menses fractus
+attamen pro horto botanico Berolinensi ca. 400 species
+plantarum vivarum contulit et praeterea herbaria exsiccatarum
+ampla reportavit. Decennio sequente iterum in horto Berolinensi
+officiis hortulani peracto m. Aprilis 1833 a regimine
+borussico sicut a societatibus virisque privatis sublevatus
+Americae septentrionalis civitates New York, Virginiam,
+Carolinam, Georgiam peragravit, dein expeditioni militari in
+regiones Arkansas interiores ductae se associavit, sed jam d. 15.
+m. Septembris 1834 febri biliosa in Fort Gibson ad
+fluvium Arkansas superiorem morti succubuit.
+
+Lit. =Geo. Catlin=: Letters and notes vol. II (1841) n. 45
+p. 80–81 (de morte cl. Beyrich). — =E. Jacobs=: Heinrich Karl
+Beyrich in Allg. Deutsche Biogr. vol. II (1875) p. 605 (cum
+notis nonnullis erroneis ad cl. =F. Sellow= pertinentibus). — =Martius=
+in Flora Ratisb. vol. XX. pars II (1837) Beibl. p. 45. — Acta
+horti Berolinensis et chartae publicae in tabulario regni borussici
+sub Ministerium der Auswärtigen Angelegenheiten Rep. I n. 20
+asservatae et literae Sellowianae. — Pritz. Thes. II p. 26.
+
+#+BEGIN_CENTER
+~Itinera.~
+#+END_CENTER
+
+Initio VI. 1822 ad 19. VII. 1823. Brasiliae civit.
+~Rio de Janeiro~: Praya vermelha, Copacabana, Tijuca, Serra
+da Estrella, Mandiocca, Serra dos Orgãos, Serra da Tinguá,
+Serra de Macacú, Serra da Viuva, Macahé, Tocaia, Pilar,
+St. Cruz, Aguaçu, Morambaia, Magé, Lagoa de Saquarema.
+
+1833–34 — Americae septentrionalis civitates unitae
+orientales usque Arkansas.
+
+Plantae in museis variis e. gr. Berlin, Kiel, St. Petersburg,
+brasilienses non omnes in museo Berolinensi. Herbarium
+proprium in universitate Lipsiensi.
+
+**** BLANCHET, JACQUES SAMUEL.
+(1807–1875).
