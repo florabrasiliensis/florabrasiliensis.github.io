@@ -77,14 +77,14 @@
 {
     body {
 	color: black;
-	margin-top: 0;
+	margin: 0;
 	line-height: 1.4rem;
 	font-family: Liberation Serif;
 
     }
     body #content {
-	padding-top: 2em;
-	margin: auto;
+	padding: 1em;
+	margin: 0 auto;
 	max-width: 48em;
 	background-color: white;
     }
@@ -273,23 +273,30 @@
 	padding: 0px 0.1em;
     }
 
-    img {
-	border: 0;
+    .figure {
+        padding: 0;
+    	margin: 0;
 	max-width: 125%;
-	width: auto;
-	height: auto;
-	margin: -10% -10% -20% -10%;
-	clip-path: inset(10% 10% 20% 10%);
-	object-fit: cover;
+    }
+
+    .figure > p {
+    	padding: 1em 0 4em 0;
     }
     
-    img:hover {
-	max-width: none;
-	width: auto;
+    img {
+	display: block;
+	width: 125%;
 	height: auto;
-	margin: 0% 0% 0% 0%;
-	clip-path: inset(0% 0% 0% 0%);
-	object-fit: none;
+	margin: -10% -10% -20% -12.25%;
+	clip-path: inset(10% 10% 20% 10%);
+	transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+    }
+    img:hover {
+	position: relative;
+	width: 225%;
+	height: 225%;
+	transform: translate(-5%, -5%);
+	z-index: 1;
     }
 
     .share img {
