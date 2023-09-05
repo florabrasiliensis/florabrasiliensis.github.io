@@ -274,29 +274,33 @@
     }
 
     .figure {
-        padding: 0;
-    	margin: 0;
-	max-width: 125%;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		position: relative;
+		transition: width 0.3s ease-in-out;
+		overflow: hidden;
+    }
+
+    .figure:hover {
+		width: 163%;
+		height: auto;
+		z-index: 1;
     }
 
     .figure > p {
-    	padding: 1em 0 4em 0;
+		margin: 0;
+		padding: 0;
     }
     
     img {
-	display: block;
-	width: 125%;
-	height: auto;
-	margin: -10% -10% -20% -12.25%;
-	clip-path: inset(10% 10% 20% 10%);
-	transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
-    }
-    img:hover {
-	position: relative;
-	width: 225%;
-	height: 225%;
-	transform: translate(-5%, -5%);
-	z-index: 1;
+		display: block;
+		width: 119.825%;
+		height: auto;
+		position: relative;
+		left: 50%;
+		transform: translate(-50%, 0);
+		clip-path: inset(0 8% 0 8%);
     }
 
     .share img {
@@ -1018,7 +1022,7 @@
 
     #postamble {
 	font-size: 75%;
-	min-width: 700px;
+	min-width: 250px;
 	max-width: 80%;
 	line-height: 14pt;
 	margin-left: 20px;
