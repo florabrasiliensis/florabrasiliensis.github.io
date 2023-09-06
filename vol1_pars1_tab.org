@@ -9,6 +9,7 @@
 #+DATE:     1840–1906
 #+LANGUAGE: la
 #+OPTIONS: H:4 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+OPTIONS: org-html-doctype:html5 org-html-html5-fancy:non-nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/florabrasiliensis.css" />
 
 * VOLUMEN I.
@@ -26,17 +27,17 @@ Propositum nobis est Florae Brasiliensis divitias
 describentibus, non in mera ordinum generumque et
 specierum systematica adumbratione adquiescere, sed
 etiam lectori ostendere rationem, qua plantarum genera
-per diversas Brasiliae regiones diffusa sint atque variegata
-et explanare modum, quo soli tegumentum efficiant
+per diversas Brasiliae regiones diffusa sint atque
+variegata et explanare modum, quo soli tegumentum efficiant
 vivum ac spirans vitamque largiens pro locorum diversitate
 ubique diversam. Quod ut recte et facile peragamus,
 necessarium nobis visum est, praecipuas vegetationisty
 diversitates non verbis solum depingere, sed
-tabulis physiognomicis illustrare. Ita enim amici lectores,
-qui studio singulas plantas Brasilienses cognoscendi
-ducuntur, in medio quasi ipsius Florae theatro positi,
-amoena illa prodigae naturae viridaria, nobis ducibus,
-percurrere poterunt et animi oculis, non sine
+tabulis physiognomicis illustrare. Ita enim amici
+lectores, qui studio singulas plantas Brasilienses
+cognoscendi ducuntur, in medio quasi ipsius Florae theatro
+positi, amoena illa prodigae naturae viridaria, nobis
+ducibus, percurrere poterunt et animi oculis, non sine
 summa confidimus voluptate, ea quasi viva et animata
 percipere, quae adire et praesentes cognoscere ipsis
 fortuna invidit. Hoc igitur consilio diversarum Brasiliae
@@ -53,8 +54,8 @@ indole et stirpium, quas alunt, nomina breviter adtingere.
 **** I. SILVA IN RIPA FLUVII AMAZONUM, CAA-YGAPO INCOLIS DICTA.
 # tab. I.
 Vegetationem in ingenti fluvii Amazonum regno
-praesertim quo perfluit Brasiliam, proprii aliquid habere,
-multisque rebus a vegetatione terrarum affinium
+praesertim quo perfluit Brasiliam, proprii aliquid
+habere, multisque rebus a vegetatione terrarum affinium
 differre, pluribus jam locis operum, de Brasilia a nobis
 scriptorum commemoravimus[fn:1]. Cujus regionis longe
 maxima pars tecta est silva densa et alta, quae Indis
@@ -123,7 +124,7 @@ complurium funes modo in aërem tendentes modo deorsum
 radicantes miris variisque formis illas circum circa
 complectuntur.
 
-[[./images/tab-i.jpg]]
+[[./images/vol1/pars1/tab-i.jpg]]
 
 **** II. SILVULAE IN PROVINCIA MINARUM, CAA-APOAM S. CAPÕES INCOLIS DICTAE.
 # tab. II. pagina III.
@@ -185,7 +186,7 @@ lingua Tupinaimba vero Caa-etê nuncupant, latius
 distant, neque vel vetustissimae unquam ad illius et
 altitudinem et magnificentiam assurgunt.
 
-[[./images/tab-ii.jpg]]
+[[./images/vol1/pars1/tab-ii.jpg]]
 
 **** III. ARBORETA IN MINIS NOVIS, TABOLEIRO COBERTO INCOLIS DICTA.
 # tab. III. pagina IV.
@@ -304,7 +305,7 @@ animalibus. Ita nonnullos eorum vides per montem
 vagantes et Myrmecophagas persequentes. Plura de hac
 regione invenies in =Martii= Itinere T. II. p. 485. 490.
 
-[[./images/tab-iii.jpg]]
+[[./images/vol1/pars1/tab-iii.jpg]]
 
 **** IV. VALLIS VELLOZIIS ARBORESCENTIBUS CONSITA, IN MORRO DO GRAVIER PROV. MINARUM.
 # tab. IV. pagina VI.
@@ -387,7 +388,7 @@ transvolant illae parvis societatibus conjunctae desertam
 regionem atque sectantes angues veneniferos, hominibus
 infestissimos, mortales inscios magno afficiunt beneficio.
 
-[[./images/tab-iv.jpg]]
+[[./images/vol1/pars1/tab-iv.jpg]]
 
 **** V. CAMPI, QUI DICUNTUR GENERALES, PROPE MOGY DAS CRUZES, IN PROV. S. PAULI.
 # tab. V. pagina VII.
@@ -482,7 +483,7 @@ illis pratisque nostris similioribus, quae vocat
 Minarum, Goyazanam, S. Pauli, haec vero minori
 ambitu septentrionales maxime provincias, uti Piauhyanam.
 
-[[./images/tab-v.jpg]]
+[[./images/vol1/pars1/tab-v.jpg]]
 
 **** VI. SILVA PRIMITIVA IN SERRA DOS ORGÃOS, PROV. RIO DE JANEIRO.
 # tab. VI. pagina IX.
@@ -979,7 +980,7 @@ timore ne anguium venenato morsu subito extinguaris,
 quas res vere atrocissimas nemo nisi naturae amantissimus
 poterit flocci habere.
 
-[[./images/tab-vi.jpg]]
+[[./images/vol1/pars1/tab-vi.jpg]]
 
 **** VII. CAMPI GENERALES JUXTA SERRA DE MANTIQUEIRA, PROPE LORENA, PROV. S. PAULI.
 # tab. VII. pagina XVII.
@@ -1130,7 +1131,7 @@ et /Opuntiae/ fruticem, in parte dextra /Paspalum/
 /erianthum/ et /Gomphrenam officinalem./ Palma, quae
 in fundo emicat ad sinistram, est /Acrocomia sclerocarpa./
 
-[[./images/tab-vii.jpg]]
+[[./images/vol1/pars1/tab-vii.jpg]]
 
 **** VIII. SILVA PRIMAEVA VIAM PUBLICAM OBUMBRANS, INTER JACAREHY ET ALDEA DA ESCADA, PROV. S. PAULI.
 # tab. VIII. pagina XIX
@@ -1294,7 +1295,7 @@ umbrosa silvae caligine obteguntur, quae, quantum vitalis
 plantarum vis superet hominum fragilitatem, luculenter
 testatur.
 
-[[./images/tab-viii.jpg]]
+[[./images/vol1/pars1/tab-viii.jpg]]
 
 **** IX. ARBORES ANTE CHRISTUM NATUM ENATAE, IN SILVA JUXTA FLUVIUM AMAZONUM.
 # tab. IX. pagina XXII.
@@ -1580,15 +1581,13 @@ Jam si ex iis, quae =Schoedlerus= et =Petersenus= aperuerunt
 de chemicis lignorum variorum substantiis, medium
 statuimus terminum inter maximum et minimum,
 scilicet constare lignum e
-#+ATTR_HTML: :cellspacing 0 :cellpadding 6
 | 50 | partibus | principii | carbonacei, |
 |  6 | 〃       | 〃        | hydrogenii, |
 | 44 | 〃       | 〃        | oxygenii,   |
 in hoc uno corpore vegetabili
-#+ATTR_HTML: :cellspacing 0 :cellpadding 6
-| 1.200.000 | librae | principii | carbonacei, |
-|   144.000 | 〃     | 〃        | hydrogenii, |
-| 1.056.000 | 〃     | 〃        | oxygenii    |
+| 1,200,000 | librae | principii | carbonacei, |
+|   144,000 | 〃     | 〃        | hydrogenii, |
+| 1,056,000 | 〃     | 〃        | oxygenii    |
 continerentur. Quod si combureretur vel potius, quod
 continet principium carbonaceum et hydrogenium, requirerentur,
 ut hoc posset fieri, omnino 4,294,467 librae
@@ -1760,7 +1759,7 @@ diximus, admiratio atque, si quidem contigerit, de hac
 sui admiratione ad illud procedet, ut se Deorum esse
 progeniem sibi persuadeat.
 
-[[./images/tab-ix.jpg]]
+[[./images/vol1/pars1/tab-ix.jpg]]
 
 **** X. SILVA AESTU APHYLLA, QUAM DICUNT CAA-TINGA, IN PROVINCIAE BAHIENSIS DESERTO AUSTRALI.
 # tab. X. pagina XXX.
@@ -2271,7 +2270,7 @@ nominandae. Denique lectorum oculos adduxerim ad
 frequentes /Visci,/ frutices, qui de pluribus vetustis
 dependent arboribus.
 
-[[./images/tab-x.jpg]]
+[[./images/vol1/pars1/tab-x.jpg]]
 
 **** XI. INSULAE SABULOSAE IN FLUVIO AMAZONUM, PROVINCIAE PARAENSIS.
 # tab XI. pagina XXXIX
@@ -2488,7 +2487,7 @@ a sinistra ad dextram procedens deinceps enumerabo:
 /— Alchornea castaneaefolia, — Passiflorae/
 fruticem volubilem, /Cecropiae/ caudicem obvolvens.
 
-[[./images/tab-xi.jpg]]
+[[./images/vol1/pars1/tab-xi.jpg]]
 
 **** XII. SILVA MARITIMA ARBORUM VIVIPARARUM, PROPE UBATUVA, IN PROV. S. PAULI.
 # tab. XII. pagina XLII
@@ -2867,7 +2866,7 @@ apud colonos Batavos, ob corticem coriarium
 /Leertouwers-Boom./ Earum ligna inserviunt rebus
 domesticis.
 
-[[./images/tab-xii.jpg]]
+[[./images/vol1/pars1/tab-xii.jpg]]
 
 **** XIII. PARASITI CADUCI GRANDIUM ARBORUM PERNICIES, IN PROVINCIA RIO DE JANEIRO.
 # tab. XIII. pagina XLIX.
@@ -3610,7 +3609,7 @@ Quae hic de plantis parasitis exposui, jam alio loco
 parte sunt tradita, additis nonnullis aliis ad hujus
 doctrinae historiam facientibus.
 
-[[./images/tab-xiii.jpg]]
+[[./images/vol1/pars1/tab-xiii.jpg]]
 
 **** XIV. XV. MONS QUI DICITUR MORRO FERMOZO IN CONFINIO PROV. RIO DE JANEIRO ET S. PAULI.
 # tab XIV. XV. pagina LXI.
@@ -3705,9 +3704,9 @@ quam maxime est insignis. Huic vero ad dextram
 adstat /Franciscaeae hydrangeaeformis/ frutex amplissimo
 florum ornatu inter congeneres excellens.
 
-[[./images/tab-xiv.jpg]]
+[[./images/vol1/pars1/tab-xiv.jpg]]
 
-[[./images/tab-xv.jpg]]
+[[./images/vol1/pars1/tab-xv.jpg]]
 
 **** XVI. SILVA CAESA, CUM FICU GRANDAEVA, AD S. JOANNEM MARCUM, PROV. RIO DE JANEIRO.
 # tab. XVI. pagina LXIII.
@@ -3906,8 +3905,8 @@ versantur. Discernitur /Massapé/ terra opima, nigra,
 tenuis, subpinguis, satis humoris complectens et /Salão,/
 solum firmum, lentum ferreo oxyde plus minus subrubrum
 argillaceum; porro /Apicú,/ quod solent vocare litorum
-incolae lutum illud tenue, motibus maris ad litus evo-
-mitum quasi et depositum, coloris albescentis, quod
+incolae lutum illud tenue, motibus maris ad litus
+evomitum quasi et depositum, coloris albescentis, quod
 cum ad alia tum ad formulas est peridoneum, in quas
 sacchara infunduntur. Tum dignoscitur solum siccum,
 arenosum, leve /(Areisco),/ utpote quod minus faveat
@@ -4115,7 +4114,7 @@ formatio planarum earumque supra humum elatarum radicum,
 quae in Europa nunquam cernitur, in Brasilia
 /Cepa apeba/ aut corrupto nomine /Sapupema/ appellatur.
 
-[[./images/tab-xvi.jpg]]
+[[./images/vol1/pars1/tab-xvi.jpg]]
 
 **** XVII. PROSPECTUS E CACUMINE MONTIS SERRA DE TAGOAHY IN ORIENTEM, PROV. RIO DE JANEIRO.
 # tab. XVII. pagina LXX.
@@ -4162,7 +4161,7 @@ Marantaceam et in media celsam /Cocum botryophoram/
 esse depictam, quae passim in illis nemoribus effert
 frondium coronam.
 
-[[./images/tab-xvii.jpg]]
+[[./images/vol1/pars1/tab-xvii.jpg]]
 
 **** XVIII. RIPAE FLUVII ITAHYPE PROV. BAHIENSIS.
 # tab. XVIII. pagina LXXI
@@ -4257,7 +4256,7 @@ hic pictura expressimus, nomino /Sterculiam Chicham,/
 /Echitem, Bignoniam, Smilacem/ in sinistra fluminis parte
 et in dextra /Xanthoxylum nigrum./
 
-[[./images/tab-xviii.jpg]]
+[[./images/vol1/pars1/tab-xviii.jpg]]
 
 **** XIX. XX. PROSPECTUS E CACUMINE MONTIS CORCOVADO, PROPE SEBASTIANOPOLIN.
 # tab. XIX. XX. pagina LXXIII.
@@ -4282,7 +4281,7 @@ videtur daemonica vis, quae olim terrae praesentem
 formam impressit, directo eum dissecuisse, alteram partem
 in mare profundum demersura. Nulla in his arduis
 parietibus planta potest sedem occupare, nihil offerentibus
-nisi saxa coloris cano - violascentis, granitem
+nisi saxa coloris cano-violascentis, granitem
 et gneissum (in quibus hic illic apatites et granates
 increvit), quae lucis vicissitudine variis coloribus coruscant
 aut obvelantur nubibus ibi praetervectis. In
@@ -4471,9 +4470,9 @@ Cana cadens violat: semper sine nubibus aether
 Integer et large diffuso lumine ridet.
 #+END_VERSE
 
-[[./images/tab-xix.jpg]]
+[[./images/vol1/pars1/tab-xix.jpg]]
 
-[[./images/tab-xx.jpg]]
+[[./images/vol1/pars1/tab-xx.jpg]]
 
 **** XXI. CAMPI AESTATE SICCA IGNIBUS ADUSTI IN PROVINCIAE MINARUM PARTE OCCIDENTALI, SPECTACULUM NOCTURNUM.
 # tab. XXI. pagina LXXVI.
@@ -4550,7 +4549,7 @@ per campos agitant, visu terribiles; idem spectaculum,
 quod nubium columnae praebuerunt Israelitis per desertum
 iter facientibus (Exod. c. XIII. v. 21.).
 
-[[./images/tab-xxi.jpg]]
+[[./images/vol1/pars1/tab-xxi.jpg]]
 
 **** XXII. CATARACTA RIVI, QUI DICITUR RIBEIRÃO DO PALMITAL, PROPE SABARA IN PROV. MINARUM.
 # tab XXII. pagina LXXVIII.
@@ -4638,7 +4637,7 @@ quaedam species /Fuchsiae, Sauvagesiae, Lavradiae,/
 proveniunt ex arena, quam gelidi et puri cataractae
 fluctus proluunt.
 
-[[./images/tab-xxii.jpg]]
+[[./images/vol1/pars1/tab-xxii.jpg]]
 
 **** XXIII. CAMPI EXTENSI, DENSO VIRGULTO CONTECTI PROPE SERRA DE S. ANTONIO IN DESERTO PROV. MINARUM.
 # tab. XXIII. pagina LXXIX.
@@ -4727,7 +4726,7 @@ et e palmarum ordine /Cocos flexuosa, capitata,/
 /Diplothemium campestre, Astrocaryum campestre,/
 /Acrocomia sclerocarpa./
 
-[[./images/tab-xxiii.jpg]]
+[[./images/vol1/pars1/tab-xxiii.jpg]]
 
 **** XXIV. SILVA IN MONTE CORCOVADO, PROPE SEBASTIANOPOLIN, PROV. RIO DE JANEIRO.
 # tab. XXIV. pagina LXXXI.
@@ -4786,7 +4785,7 @@ Addo modo, quod, quam conspicis palmam, sit Syagrus
 (antea Cocos) /Mikaniana,/ quae ab incolis dicitur
 /Cocoamargoso./
 
-[[./images/tab-xxiv.jpg]]
+[[./images/vol1/pars1/tab-xxiv.jpg]]
 
 **** XXV. RIPAE FLUVII JAPURA, IN PROV. RIO NEGRO, TEMPORE DECESSUS AQUARUM.
 # tab XXV. pagina LXXXII.
@@ -4866,7 +4865,7 @@ a colonis Hispanis dicta „Ceja de la montana“
 in superioribus locis ad occasum solis pullulante, queat
 componi.
 
-[[./images/tab-xxv.jpg]]
+[[./images/vol1/pars1/tab-xxv.jpg]]
 
 **** XXVI. VALLIS LARANJEIRAS PROPE SEBASTIANOPOLIN.
 # tab. XXVI. pagina LXXXIII.
@@ -4932,8 +4931,8 @@ St. Hil., quam indigenae vocant /Jitô (Ytô);/
 ejus cortex, quae vi est purgante, hic illic in
 medicina domestica videtur adhiberi.
 
-[[./images/tab-xxvi.jpg]]
-h
+[[./images/vol1/pars1/tab-xxvi.jpg]]
+
 **** XXVII. SILVA IN MONTE CORCOVADO PROPE CAPUT AQUAEDUCTUS FONTIS CARYOCA.
 # tab XXVII. pagina LXXXIV.
 In tabula, quae antecessit, benevolo lectori obtulimus
@@ -4987,7 +4986,7 @@ multorum ramorum arbores continet. Est quae dicitur
 illic, ubi extincta est primaeva silva, de qua jam
 supra p. XIII. XIV. LXIV. actum est.
 
-[[./images/tab-xxvii.jpg]]
+[[./images/vol1/pars1/tab-xxvii.jpg]]
 
 **** XXVIII. SILVA PRIMAEVA, RADICIBUS AC FUNIBUS OBSEPTA, PROPE FACATIBA. IN PROV. SEBASTIANOPOLITANA.
 # tab. XXVIII. pagina LXXX
@@ -5130,7 +5129,7 @@ istius naturae momentum obversetur quo perspiciat
 arbores haud ita multas multos per dies botanico
 praebere uberem indagandi opportunitatem.
 
-[[./images/tab-xxviii.jpg]]
+[[./images/vol1/pars1/tab-xxviii.jpg]]
 
 **** XXIX. PROSPECTUS IN SINUM SEBASTIANOPOLITANUM EX INSULA VIANA.
 # tab. XXIX. pagina LXXXVII.
@@ -5149,7 +5148,7 @@ radices in aërem emittens. Fruticetum Filicum,
 Graminum Aroidearumque large obtegit humum
 aut parasitice arborum caules occupat.
 
-[[./images/tab-xxix.jpg]]
+[[./images/vol1/pars1/tab-xxix.jpg]]
 
 **** XXX. SILVA PRIMAEVA IN MONTE SERRA D’ESTRELLA, PROPE PETROPOLIN.
 # tab. XXX. pagina LXXXVIII.
@@ -5277,7 +5276,7 @@ quodammodo per fines poëseos, sed unumquemque pulcritudine
 illarum regionum prorsus singulari quasi invitum
 aut inscium pari ratione permulceri.
 
-[[./images/tab-xxx.jpg]]
+[[./images/vol1/pars1/tab-xxx.jpg]]
 
 **** XXXI. ARTOCARPUS INTEGRIFOLIA E CUJUS UMBRA SANCTI SEBASTIANI SINUM ET URBEM CONSPICIS.
 # tab. XXXI. pagina XC.
@@ -5313,7 +5312,7 @@ numerosiores sunt, quam Orchideae humi accolae, quibus
 (Histoire particulière des plantes orchidées recueillies
 sur les trois îles australes d’Afrique p. 2).
 
-[[./images/tab-xxxi.jpg]]
+[[./images/vol1/pars1/tab-xxxi.jpg]]
 
 **** XXXII. VALLIS LARANJEIRAS VERSUS CATETE PROPE SEBASTIANOPOLIN.
 # tab. XXXII. pagina XC.
@@ -5352,7 +5351,7 @@ arbores, quae oculos retinent peregrinantium per has
 felices regiones, quas benignitas naturae laeto cum
 industria cultorum certamine perpetuo exornat.
 
-[[./images/tab-xxxii.jpg]]
+[[./images/vol1/pars1/tab-xxxii.jpg]]
 
 **** XXXIII. PROSPECTUS E JUGO SERRA D’ESTRELLA IN SINUM SEBASTIANOPOLITANUM.
 # tab. XXXIII. pagina XCI.
@@ -5520,7 +5519,7 @@ in abrupto vallo, e quo summo longi stipites /Nephrolepidis/
 /neglectae/ Kze. dependent, /Phyllocactus Hookerii,/
 /Bromeliacea, Rubus/ et grandiflora /Amaryllis./
 
-[[./images/tab-xxxiii.jpg]]
+[[./images/vol1/pars1/tab-xxxiii.jpg]]
 
 **** XXXIV. SILVA PRIMAEVA PROPE PEDRA DA ONÇA, PRAEDIUM IN PROV. SEBASTIANOPOLITANA.
 # tab. XXXIV. pagina XCIV.
@@ -5612,7 +5611,7 @@ calvitie laborant. At ea conditio raro diutius perseverat
 et in occidentali quoque latere silvae montanae per
 majorem partem anni laeta fronde exstructae sunt.
 
-[[./images/tab-xxxiv.jpg]]
+[[./images/vol1/pars1/tab-xxxiv.jpg]]
 
 **** XXXV. ET XXXVI. PROPE JUNDICUARA PRAEDIUM IN DISTRICTU UBATUVA.
 # tab. XXXV. XXXVI pagina XCVI.
@@ -5669,7 +5668,7 @@ arboris aetatem indicare videntur. Ex virgultis
 pone eam dependent serta /Mikaniae/ adeo quidem
 contexta ut intuitum intra silvam prohibeant.
 
-[[./images/tab-xxxv.jpg]]
+[[./images/vol1/pars1/tab-xxxv.jpg]]
 
 # pagina XCVII.
 Tab. XXXVI. Hujus quoque regionis consimilis
@@ -5717,7 +5716,7 @@ Passiflorearum, Bromeliacearum scandunt inter
 ramos arborum, quas simul greges Pseudoparasitorum
 passim occupant.
 
-[[./images/tab-xxxvi.jpg]]
+[[./images/vol1/pars1/tab-xxxvi.jpg]]
 
 **** XXXVII. SILVA PRIMAEVA INTER UBATUVA ET JUNDICUARA, IN CONFINIIS PROV. S. PAULI ET SEBASTIANOPOLITANAE.
 # tab. XXXVII. pagina XCVIII.
@@ -5852,7 +5851,7 @@ inclinata nuncupatur ~Caixeta~, et erit Bignoniacea,
 /Tabebuja leucoxylon DC./ — Funes sparsissimos per
 illas arbores emittit /Passiflora/ quaedam.
 
-[[./images/tab-xxxvii.jpg]]
+[[./images/vol1/pars1/tab-xxxvii.jpg]]
 
 **** XXXVIII. SILVA RORIDA IN JUGO SERRA D’ESTRELLA, PROV. SEBASTIANOPOLITANAE
 # tab. XXXVIII. pagina C.
@@ -5929,7 +5928,7 @@ lichenis, fungi naturam ambigui, vario gradu evoluti.
 Propius ad aequatorem simili loco similiter occurrit
 tamquam parasitus /Cora pavonia./
 
-[[./images/tab-xxxviii.jpg]]
+[[./images/vol1/pars1/tab-xxxviii.jpg]]
 
 **** XXXIX. LUCUS ARAUCARIAE BRASILIANAE IN PROVINCIA MINARUM.
 # tab XXXIX. pagina CI.
@@ -6086,7 +6085,7 @@ quibusdam regionibus Hispanorum, qui eas ~los Pinnares~
 vocitant; Guaranos vero hic illic eas disserere
 prope habitationes et hortos.
 
-[[./images/tab-xxxix.jpg]]
+[[./images/vol1/pars1/tab-xxxix.jpg]]
 
 **** XL. RIPAE INSULARUM IN ARCHIPELAGO PARAENSI.
 # tab. XL. pagina CIV.
@@ -6189,7 +6188,7 @@ tamquam abietis, aut ~Ubussu~ /(Manicaria saccifera)/
 extendit contra lucem folia simplicia, ventis
 tempestatibusque dilacerata, qualia ipsa imago exhibet.
 
-[[./images/tab-xl.jpg]]
+[[./images/vol1/pars1/tab-xl.jpg]]
 
 **** XLI. PALMETUM MAURITIAE FLEXUOSAE IN INSULA PAUTINGA ARCHIPELAGI PARAENSIS
 # tab. XLI. pagina CVI.
@@ -6296,7 +6295,7 @@ porro aliud clarescit et e contemptibus exit.
                                   (Lucretius V. 830. sqq.)
 #+END_VERSE
 
-[[./images/tab-xli.jpg]]
+[[./images/vol1/pars1/tab-xli.jpg]]
 
 **** XLII. PROSPECTUS EX HORTO SUBURBII MATA-CAVALLOS IN AQUAEDUCTUM SEBASTIANOPOLEOS.
 # tab. XLII. pagina CVIII.
@@ -6356,75 +6355,75 @@ terris: /Cerei/ et /Opuntiae/ complures, /Yucca gloriosa,/
 /reticulata, Cherimolia, Persea gratissima./
 Jam alias omittimus.
 
-[[./images/tab-xlii.jpg]]
+[[./images/vol1/pars1/tab-xlii.jpg]]
 
 **** XLIII. CAMPI SILVULIS VARIATI AD FLUV. RIO DAS VELHAS, PROV. MINARUM.
 
-[[./images/tab-xliii.jpg]]
+[[./images/vol1/pars1/tab-xliii.jpg]]
 
 **** XLIV. CULTURA COFFEAE IN PRAEDIO INTER OPPIDUM MAGÉ ET MONTES SERRA DOS ORGÃOS.
 
-[[./images/tab-xliv.jpg]]
+[[./images/vol1/pars1/tab-xliv.jpg]]
 
 **** XLV. CULTURA AGAVAE AMERICANAE, IN CAMPIS MEXICANIS PROPE S. JUAN DE TEOTIIIUACAN.
 
-[[./images/tab-xlv.jpg]]
+[[./images/vol1/pars1/tab-xlv.jpg]]
 
 **** XLVI. PROSPECTUS IN PROV. MINARUM MONTUOSAM REGIONEM, E SERRA DE OURO BRANCO CAURUM VERSUS.
 
-[[./images/tab-xlvi.jpg]]
+[[./images/vol1/pars1/tab-xlvi.jpg]]
 
 **** XLVII. REGIO MONTOSA PROPE COCAËS, IN PROV. MINARUM.
 
-[[./images/tab-xlvii.jpg]]
+[[./images/vol1/pars1/tab-xlvii.jpg]]
 
 **** XLVIII. CACUMEN MONTIS ITACOLUMI, IN PROV. MINARUM.
 
-[[./images/tab-xlviii.jpg]]
+[[./images/vol1/pars1/tab-xlviii.jpg]]
 
 **** IL. MONTES AURIFERI AD CATA-BRANCA, IN PROV. MINARUM.
 
-[[./images/tab-il.jpg]]
+[[./images/vol1/pars1/tab-il.jpg]]
 
 **** L. CACUMEN MONTIS PICO D’ITABIRA DO CAMPO, IN PROV. MINARUM.
 
-[[./images/tab-l.jpg]]
+[[./images/vol1/pars1/tab-l.jpg]]
 
-**** LI. PALMETUM MAURITIAE FLEXUOSAE IN INSULA PAUTINGA ARCHIPELAGI PARAENSIS.
+**** LI. CAMPI VIRGULTIS DISTINCTI SUB RADICE JUGI SERRA DA LAPA, IN PROV. MINARUM.
 
-[[./images/tab-li.jpg]]
+[[./images/vol1/pars1/tab-li.jpg]]
 
 **** LII. CAMPI CEREIS PALMIS ET ALIIS VIRGULTIS VARIATI, IN SUPERIORE JUGO SERRA DA LAPA, PROV. MINARUM.
 
-[[./images/tab-lii.jpg]]
+[[./images/vol1/pars1/tab-lii.jpg]]
 
 **** LIII. PALMETUM MAURITIAE VINIFERAE, JUXTA MONTES DICTOS OS PAREDÕES, IN VIA INTER URBES GOYAZ ET CUYABÁ.
 
-[[./images/tab-liii.jpg]]
+[[./images/vol1/pars1/tab-liii.jpg]]
 
 **** LIV. FONTES FLUVII PARAGUAY.
 
-[[./images/tab-liv.jpg]]
+[[./images/vol1/pars1/tab-liv.jpg]]
 
 **** LV. CULTURA MUSAE PARADISIACAE PROPE URBEM RIO DE JANEIRO.
 
-[[./images/tab-lv.jpg]]
+[[./images/vol1/pars1/tab-lv.jpg]]
 
 **** LVI. RIPAE FLUVII PARAGUAY IN MATO GROSSO.
 
-[[./images/tab-lvi.jpg]]
+[[./images/vol1/pars1/tab-lvi.jpg]]
 
 **** LVII. FLUVII S. FRANCISCI CATARACTA, DICTA DE PAULO AFFONSO.
 
-[[./images/tab-lvii.jpg]]
+[[./images/vol1/pars1/tab-lvii.jpg]]
 
 **** LVIII. TREMETAL VEL PRATUM FLUCTUANS, PROPE ALCANTARA IN PROV. MARAGNANENSI.
 
-[[./images/tab-lviii.jpg]]
+[[./images/vol1/pars1/tab-lviii.jpg]]
 
 **** LIX. SILVA MONTIUM SERRA DOS ORGÃOS DECLIVIA OBUMBRANS, IN PROV. RIO DE JANEIRO.
 
-[[./images/tab-lix.jpg]]
+[[./images/vol1/pars1/tab-lix.jpg]]
 
 * Footnotes
 
